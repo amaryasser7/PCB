@@ -1,9 +1,9 @@
 # PCB
 ## The PCB image
-![Image](https://github.com/user-attachments/assets/8f9534c6-aaff-4d17-a6e9-e37f3f5debf5)
+![image](https://github.com/user-attachments/assets/062ca511-a120-4c4d-952c-9d9944f74960)
 ## The Schematic image
 ![Screenshot 2025-04-27 211416](https://github.com/user-attachments/assets/f11583db-ae2c-439a-b548-6d2031bc1a0b)
 ## The 3D design
-![Screenshot 2025-04-27 211828](https://github.com/user-attachments/assets/0bfe0991-25d2-425f-8207-43f04987335b)
+![image](https://github.com/user-attachments/assets/92c6511f-509b-4be7-8cbd-9466fd847a42)
 # Describtion:
-## This PCB features a battery holder, two LEDs, a push button, and two current-limiting resistors. It is designed for a simple circuit where pressing the button lights the LEDs. The board includes a light bulb graphic and the label "3mmar".
+## This PCB features a compact design with a CR2032 battery holder, two LEDs, a push-button (U2), and two resistors (R1, R2). Stylish silkscreen art showcases Goku and Dragon Balls scattered creatively across the blue board.
